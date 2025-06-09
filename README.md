@@ -23,7 +23,6 @@ Java 백엔드부터 AI 서비스까지 폭넓게 학습하며, 실제 문제를
 
 - 📧 Email: wnrb15@naver.com  
 - 📱 Phone: 010-2107-5974  
-- 🏠 GitHub: [github.com/your-id](https://github.com/your-id)
 
 ---
 
