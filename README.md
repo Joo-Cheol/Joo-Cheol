@@ -6,7 +6,7 @@
 ## 🖼 프로필 사진
 
 <p align="center">
-  <img src="https://github.com/Joo-Cheol/Joo-Cheol/blob/main/%EC%82%AC%EC%A7%84.jpg" width="160" height="160" style="border-radius: 50%" alt="profile" />
+  <img src="https://github.com/Joo-Cheol/Joo-Cheol/blob/main/%EC%82%AC%EC%A7%84.jpg" width="300" height="300" style="border-radius: 50%" alt="profile" />
 </p>
 
 ---
