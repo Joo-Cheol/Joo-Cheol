@@ -38,8 +38,7 @@
 ### 📑 수료증
 
 <p>
-  <img src="your-certificate-image-url1" width="250"/>  
-  <img src="your-certificate-image-url2" width="250"/>  
+  <img src="https://github.com/Joo-Cheol/Joo-Cheol/blob/main/%EC%88%98%EB%A3%8C%EC%A6%9D.jpg" width="250"/>  
 </p>
 
 ---
