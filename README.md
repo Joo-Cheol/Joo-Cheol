@@ -51,6 +51,7 @@
 | **FoodyChat** | 음식 이미지 분류 + 챗봇 통합 개인화 식단 추천 서비스 | PyTorch, FastAPI, Spring Boot, React, Docker |
 | **퇴사 예측 시스템** | Random Forest 기반 이직/퇴사 예측 모델 및 실시간 웹앱 | Scikit-learn, Streamlit |
 | **해수면 예측** | LSTM 모델 기반 시계열 분석, 실시간 예측 시각화 | TensorFlow, Pandas, Streamlit |
+| **MES+ERP 통합시스템** | 스마트팩토리 - MES + ERP 통합시스템 개발 프로젝트  | Java 풀스택 |
 
 ---
 
